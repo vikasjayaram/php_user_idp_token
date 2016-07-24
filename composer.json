@@ -1,0 +1,12 @@
+{
+    "name": "vikasjayaram/php-user-idp-token",
+    "authors": [
+        {
+            "name": "Vikas Jayaram",
+            "email": "vikas.ramasethu@gmail.com"
+        }
+    ],
+    "require": {
+      "guzzlehttp/guzzle": "^6.1",
+    }
+}
